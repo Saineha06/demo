@@ -9,5 +9,6 @@ public class Test {
         student.rollNumber= 1;
         student.address = "hyd";
         System.out.println(student);
+
     }
 }
